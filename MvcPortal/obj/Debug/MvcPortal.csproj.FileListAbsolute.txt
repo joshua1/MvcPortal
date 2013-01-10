@@ -1,0 +1,75 @@
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\MvcPortal.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\MvcPortal.pdb
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\EntityFramework.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\EntityFramework.xml
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\obj\Debug\MvcPortal.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\obj\Debug\MvcPortal.pdb
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Common.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.FluentValidation.Mvc3.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Interfaces.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.SqlServer.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Redis.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.ServiceInterface.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Text.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\WebActivator.dll
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.xml
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Common.xml
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Interfaces.xml
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.pdb
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.SqlServer.pdb
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Redis.xml
+\\vmware-host\shared folders\documents\visual studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Text.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\MvcPortal.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\MvcPortal.pdb
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\EntityFramework.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Common.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.FluentValidation.Mvc3.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Interfaces.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Redis.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.ServiceInterface.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Text.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\WebActivator.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\EntityFramework.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Common.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Interfaces.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.pdb
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.SqlServer.pdb
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Redis.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\bin\ServiceStack.Text.xml
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\obj\Debug\MvcPortal.dll
+C:\Users\HedLamp2\Documents\Visual Studio 2010\MvcPortal\MvcPortal\obj\Debug\MvcPortal.pdb
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\MvcPortal.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\MvcPortal.pdb
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\EntityFramework.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\Microsoft.Web.Infrastructure.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Common.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.FluentValidation.Mvc3.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Interfaces.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.SqlServer.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Redis.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.ServiceInterface.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Text.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\WebActivator.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\EntityFramework.xml
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.xml
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Common.xml
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Interfaces.xml
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.pdb
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.OrmLite.SqlServer.pdb
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Redis.xml
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\bin\ServiceStack.Text.xml
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\obj\Debug\MvcPortal.dll
+Z:\Documents\Visual Studio 2010\Projects\MvcPortal\MvcPortal\obj\Debug\MvcPortal.pdb
