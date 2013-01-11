@@ -437,7 +437,7 @@ window.require.define({ "router": function (exports, require, module) {
             index: Em.Route.extend({
                 route: '/',
 
-                enter: function (router) {
+                connectOutlets: function (router) {
                     console.log('entered');
                     var authenticated = router.get('authController').get('authenticated');
                     this.log(authenticated);
