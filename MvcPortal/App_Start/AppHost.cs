@@ -55,7 +55,7 @@ namespace MvcPortal.App_Start
             ControllerBuilder.Current.SetControllerFactory(new FunqControllerFactory(container));
             var appSettings = new AppSettings();
             var connString = appSettings.Get("SQLSERVER_CONNECTION_STRING",
-                                             ConfigUtils.GetConnectionString("ApplicationServices"));
+                                             ConfigUtils.GetConnectionString("UserAuth"));
             container.Register<IDbConnectionFactory>(
                 new OrmLiteConnectionFactory(connString, SqlServerDialect.Provider));
 
