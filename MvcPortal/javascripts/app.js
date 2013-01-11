@@ -379,6 +379,7 @@ window.require.define({"initialize": function(exports, require, module) {
       })
   });
   App.initialize();
+  console.log('App initialised');
   
 }});
 
@@ -573,7 +574,7 @@ window.require.define({"templates/application": function(exports, require, modul
     tmp1.contexts.push(stack1);
     tmp1.data = data;
     stack1 = stack3.call(depth0, stack2, tmp1);
-    data.buffer.push(escapeExpression(stack1) + "\n\n        </div>\n      </div>\n    </div>\n  </div>\n  </div>\n </div>\n  <div class=\"container-fluid\" id=\"container\">\n    <div class=\"row-fluid\">\n    <h1>hello WOrld</h1>\n           ");
+    data.buffer.push(escapeExpression(stack1) + "\n\n        </div>\n      </div>\n    </div>\n  </div>\n  </div>\n </div>\n  <div class=\"container-fluid\" id=\"container\">\n    <div class=\"row-fluid\">\n\n           ");
     stack1 = depth0;
     stack2 = "App.NavigationView";
     stack3 = helpers.view;
