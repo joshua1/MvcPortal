@@ -428,6 +428,7 @@ window.require.define({"router": function(exports, require, module) {
 
                 enter: function(router) {
                     var authenticated = router.get('authController').get('authenticated');
+                    this.log(authenticated);
                     // It's not at all obvious why this works :(
                     Em.run.next(function() {
                         if (authenticated) {
