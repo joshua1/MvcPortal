@@ -436,22 +436,8 @@ window.require.define({ "router": function (exports, require, module) {
             // state can decide whether to enter authenticated or unauthenticated mode.
             index: Em.Route.extend({
                 route: '/',
+                transitionsTo: 'unauthenticated'
 
-                enter: function (router) {
-                    console.log('entered');
-                    var authenticated = router.get('authController').get('authenticated');
-                    this.log(authenticated);
-                    // It's not at all obvious why this works :(
-                    Em.run.next(function () {
-                        if (authenticated) {
-                            console.log('authenticated');
-                            router.transitionTo('authenticated');
-                        } else {
-                            console.log('not authenticated');
-                            router.transitionTo('unauthenticated');
-                        }
-                    })
-                }
             }),
 
             authenticated: Em.Route.extend({
