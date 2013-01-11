@@ -404,7 +404,7 @@ window.require.define({ "models/message": function (exports, require, module) {
     App.messageModel = DS.Model.extend({
         primaryKey: 'id',
         MessageId: DS.attr('string'),
-        StatusCode: DS.attr('int'),
+        StatusCode: DS.attr('number'),
         MessageStatus: DS.attr('string'),
         DateSent: DS.attr('date'),
         PhoneNumber: DS.attr('string'),
